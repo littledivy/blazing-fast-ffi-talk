@@ -1,0 +1,16 @@
+{
+  "name": "fast-ffi-tokyo-talk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sqlite.node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@evan/duckdb": "^0.1.5",
+    "better-sqlite3": "^8.6.0",
+    "duckdb": "^0.8.1"
+  }
+}
